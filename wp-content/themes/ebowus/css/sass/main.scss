@@ -1,0 +1,11 @@
+$pink: #ea4c89;
+
+a {
+  font-weight: bold;
+  text-decoration: none;
+  color: red;
+ 
+  &:hover {
+    color: $pink;
+  }
+}
